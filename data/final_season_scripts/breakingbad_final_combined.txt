@@ -2132,7 +2132,6 @@ May I speak with Susan, please?
 
 
 
-
 Thank you.
 
 Hi, Susan, it's David again.
@@ -2166,7 +2165,6 @@ Gotcha.
 Now, the address I have on them
 
 is Upper Canyon Road.
-
 
 
 
@@ -3570,3 +3568,4 @@ that I would know ♪
 I have for you ♪
 
 ♪ my baby blue ♪
+
